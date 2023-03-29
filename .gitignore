@@ -1,0 +1,6 @@
+docs/
+__pycache__
+buses.json
+build
+dist
+main.spec
